@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Minimalist Palette -->
+    <color name="bg_main">#0F172A</color> <!-- Deep Navy -->
+    <color name="surface">#1E293B</color> <!-- Slate -->
+    <color name="primary">#38BDF8</color> <!-- Sky Blue -->
+    <color name="primary_variant">#0EA5E9</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="text_main">#F8FAFC</color> <!-- Off-white -->
+    <color name="text_muted">#94A3B8</color> <!-- Muted blue-grey -->
+
+    <color name="accent_green">#10B981</color>
+    <color name="accent_red">#EF4444</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
